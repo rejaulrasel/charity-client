@@ -5,14 +5,15 @@ import useAuth from '../../../Hooks/useAuth';
 
 const Service = ({ service, handleDelete ,admin}) => {
 
-    const { _id, name, img, amount } = service;
+    const { name, img, amount } = service;
 
 
     // const { admin } = useAuth();
 
     return (
-
+        
         <div className="col-12 col-md-4  my-3 ">
+            
             <div class="card container ">
                 <img src={img} class="img-fluid " alt="..." />
                 <div class="card-body">
@@ -31,3 +32,5 @@ const Service = ({ service, handleDelete ,admin}) => {
 };
 
 export default Service;
+
+<div data-aos="flip-left"></div>

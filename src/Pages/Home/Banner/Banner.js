@@ -18,7 +18,7 @@ const Banner = () => {
                         alt="Royal Enfield Classic 350"
                     />
                     <Carousel.Caption style={{color:"black"}}>
-                        <h1>MAZDA Broncho</h1>
+                        <h1>DONATE TO THE SOUL OF THE WORLD</h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -30,8 +30,8 @@ const Banner = () => {
                         alt="KTM RC 125"
                     />
 
-                    <Carousel.Caption style={{color:"white"}}>
-                        <h1>MAZDA PX 2021</h1>
+                    <Carousel.Caption style={{color:"black"}}>
+                        <h1>BE A PART OF CHARITY WORKS</h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -43,8 +43,9 @@ const Banner = () => {
                         alt="Third slide"
                     />
 
-                    <Carousel.Caption style={{color:"white"}}>
-                        <h1>MAZDA TW-120</h1>
+
+                    <Carousel.Caption style={{color:"black"}}>
+                        <h1>MAKE THE PART OF SMILE OF THE POOR PEOPLE </h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>

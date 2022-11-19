@@ -60,7 +60,7 @@ const Footer = () => {
                   <br />
                   <Link className="footer-menu text-decoration-none text-white pb-4" to="/login">Login</Link>
                   <br />
-                  <Link className="footer-menu text-decoration-none text-white pb-4" to="/about">About Us</Link>
+                  
                 </ul>
               </div>
             </div>
@@ -86,8 +86,8 @@ const Footer = () => {
                   </div>
                   <div>
                     <p>
-                      Khilgaon,
-                      <br /> 466 East Goran,Dhaka,Bangladesh
+                      University Road,
+                      <br />Santosh,Tangail-1902,Bangladesh
                     </p>
                   </div>
                 </div>

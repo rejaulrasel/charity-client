@@ -45,6 +45,11 @@ const services = [
         "img": "https://i.ibb.co/5cX8MHd/ph-36423-132656.jpg",
         "amount": "1000"
     },
+    {
+        "name": "Donate for Rohinga",
+        "img": "https://i.ibb.co/wy6xpQf/5a16fdac3.jpg",
+        "amount": "2000"
+    },
 
 ]
 
